@@ -1,5 +1,3 @@
-
-
 def gradingStudents(grades):
     myGrades=[]
     for grade in grades:
